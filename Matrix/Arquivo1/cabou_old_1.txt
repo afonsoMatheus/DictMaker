@@ -1,0 +1,22 @@
+124	17	25
+86	94	100
+10	20	49
+
+Acur�cia: 50%
+
+Cobertura Positiva: 56%
+Cobertura Neutra: 71%
+Cobertura Negativa: 28%
+
+Precis�o Positiva: 74%
+Precis�o Neutra: 33%
+Precis�o Negativa: 62%
+
+Recall Positiva: 56%
+Recall Neutra: 71%
+Recall Negativa: 28%
+
+F-Measure Positiva: 63.75384%
+F-Measure Neutra: 45.057693%
+F-Measure Negativa: 38.577778%
+

@@ -1,0 +1,22 @@
+145	21	35
+68	91	78
+7	19	61
+
+Acur�cia: 56%
+
+Cobertura Positiva: 65%
+Cobertura Neutra: 69%
+Cobertura Negativa: 35%
+
+Precis�o Positiva: 72%
+Precis�o Neutra: 38%
+Precis�o Negativa: 70%
+
+Recall Positiva: 65%
+Recall Neutra: 69%
+Recall Negativa: 35%
+
+F-Measure Positiva: 68.32117%
+F-Measure Neutra: 49.009346%
+F-Measure Negativa: 46.666664%
+
